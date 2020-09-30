@@ -1,4 +1,4 @@
-# Newscatcher
+# Newscatcher for beginners
 **Programmatically collect normalized news from (almost) any website.**
 
 Filter by **topic**, **country**, or **language**.
@@ -11,8 +11,8 @@ Created by [newscatcherapi.com](https://www.newscatcherapi.com) but you do not n
 ## Motivation
 While working on [newscatcherapi](https://newscatcherapi.com/) - JSON API 
 to query news articles,
-I came up with an idea to make a simple Python package that would allow
-to easily grab the live news data. 
+I came up with an excellent idea to make a simple Python package that would allow
+you to easily grab the live news data. 
 
 When I used to be a junior data scientist working on my own side projects,
 it was difficult for me to operate with external data sources. I knew Python
